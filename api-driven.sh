@@ -10,7 +10,7 @@
 # Edit these before running ###########
 #######################################
 
-tfc_token=`cat tfe_team_token`
+tfc_token=`cat tfe_token_file`
 address=""
 organization=""
 workspace=""
